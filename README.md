@@ -19,4 +19,4 @@
 4. Откройте в браузере: http://localhost:8080.
 
 ## Лицензия
-MIT License. Подробнее в файле LICENSE.
+MIT License. Подробнее в файле [LICENSE](LICENSE).
