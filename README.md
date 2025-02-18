@@ -9,7 +9,7 @@
 ## Как использовать
 1. Скачайте репозиторий:
    ```bash
-   git clone https://github.com/ваш_логин/docker-examples.git
+   git clone https://github.com/Escano4/docker-examples.git
 2. Перейдите в директорию проекта:
    ```bash
    cd docker-examples
